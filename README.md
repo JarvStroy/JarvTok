@@ -10,8 +10,8 @@
   *jt-(version).apk* # Androids
 
 ## Credits
-**JarvProject Team** Official
-**JarvStroy** Official
+**JarvProject Team** Official <br>
+**JarvStroy** Official <br>
 **Venfoll** Official 
 
 **[DeepSeek](https://github.com/deepseek-ai/deepseek-harness)**
